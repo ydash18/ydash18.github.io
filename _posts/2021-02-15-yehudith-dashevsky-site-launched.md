@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Hi There"
+title: "Yehudith's new blog"
 date: 2021-02-15
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Yehudith Dashevsky!</h1>
-	<p>Allow me to share a few projects with you here!<a href="/about">Read more about my life...</a></p>
+	<h1>Starting a blog</h1>
+	<p>Finally started a blog, partially to practice web design. I'm using Github, Jekyll, markdown. What those are, I'm not yet sure. Actual direction of blog, tbd. <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
